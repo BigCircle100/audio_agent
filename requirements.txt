@@ -1,0 +1,6 @@
+torch
+torchaudio
+funasr
+langgraph
+langchain-openai
+langchain-mcp-adapters
